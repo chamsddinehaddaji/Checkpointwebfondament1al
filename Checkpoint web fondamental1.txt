@@ -1,0 +1,27 @@
+Checkpoint :
+
+
+1-How does the web work?
+
+The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client .
+
+2-What do you need to be a web developer?
+
+
+skills 	:
+-front end :
+-HTML
+-CSS
+-JavaScript
+
+- back end :
+-Python
+-Java
+-JavaScript
+-Ruby
+-C#
+-PHP
+
+3-Why did you choose to learn web development?
+be cause web developers are in high demand
+and love solving problems .
